@@ -1,0 +1,11 @@
+{
+  "name": "leaflet1example",
+  "version": "0.1.0",
+  "description": "Leaflet example",
+  "main": "index.js",
+  "author": "IvanRave",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^1.0.0-rc.1"
+  }
+}
